@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    padding: 100px;
+}
+
+.photo {
+    margin-right: 20px;
+    justify-content: start;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+}
